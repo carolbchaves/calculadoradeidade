@@ -18,4 +18,4 @@ Você pode abrir o arquivo `.ipynb` diretamente no [Google Colab](https://colab.
 
 ---
 
-*Desenvolvido por [Seu Nome]* ✨
+*Desenvolvido por Carol Barreto* ✨
